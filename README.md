@@ -25,6 +25,10 @@ Super Cashier adalah program yang dibuat untuk membantu toko dalam menyediakan l
 
 ## Penjelasan Code
 
+### Inisiasi Class
+
+![image.png]( {https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/1.%20Inisiasi%20Kelas.PNG} )
+
 ## Test Case
 
 ## Conclution and Future Works
