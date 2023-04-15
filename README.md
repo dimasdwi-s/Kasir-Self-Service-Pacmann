@@ -76,5 +76,39 @@ Super Cashier adalah program yang dibuat untuk membantu toko dalam menyediakan l
 
 ## Test Case
 
-## Conclution and Future Works
- 
+### Test Case 1
+
+Customer ingin menambahkan 2 item baru, yaitu:
+    - Ayam Goreng, jumlahnya 2, dengan harga 20.000
+    - Pasta Gigi, jumlahnya 3, dengan harga 15.000
+    
+![Test 1.1.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Test%20Case/Test%201.1.PNG)
+
+![Test 1.2.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Test%20Case/Test%201.2.PNG)
+
+### Test Case 2
+
+Customer ingin menghapus Pasta Gigi.
+
+![Test 2.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Test%20Case/Test%202.PNG)
+
+### Test Case 3
+
+Customer ingin menghapus semua belanjanya.
+
+![Test 3.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Test%20Case/Test%203.PNG)
+
+### Test Case 4
+
+Customer ingin menghitung total belanjanya.
+
+![test 4.1.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Test%20Case/test%204.1.PNG)
+
+![Test 4.2.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Test%20Case/Test%204.2.PNG)
+
+## Future Works
+
+1. Customer tidak perlu input harga, karena sudah ada databasenya.
+2. Hapus barang perlu konfirmasi terlebih dahulu, untuk memastikan bukan ketidaksengajaan.
+3. Nama barang bisa duplicate tanpa overwrite data sebelumnya (hanya menambahkan jumlahnya saja).
+4. Membuat code yang lebih 'clean' .
