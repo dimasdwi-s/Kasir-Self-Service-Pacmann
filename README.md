@@ -23,6 +23,40 @@ Super Cashier adalah program yang dibuat untuk membantu toko dalam menyediakan l
    
 ## Alur Program
 
+1. Diperlukan input data transaksi.
+
+2. User memilih menu yang dikehendaki dalam Main Menu.
+
+    a. Tambah Barang
+    
+    b. Update Nama Barang
+    
+    c. Update Jumlah Barang
+    
+    d. Update Harga Barang
+    
+    e. Delete Barang
+    
+    f. Reset Barang
+    
+    g. Check Belanja
+    
+    h. Konfirmasi
+    
+    i. Total Belanja
+    
+3. Cek diskon yang mungkin diperoleh user.
+
+    a. < 200.000 = tidak ada diskon
+    
+    b. > 200.000 , diskon 5%
+    
+    c. > 300.000 , diskon 8%
+    
+    d. > 500.000 , diskon 10%
+    
+4. print Total Belanja
+
 ## Penjelasan Code
 
 ### 1. Inisiasi Class
