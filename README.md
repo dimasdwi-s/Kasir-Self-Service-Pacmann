@@ -1,7 +1,9 @@
-# Super_Cashier_Pacmann
+# Kasir Self Service - Pacmann Project
+
 Super Cashier adalah program yang dibuat untuk membantu toko dalam menyediakan layanan self-service. Sehingga dimanapun pelanggan berada dapat melakukan pembelian di toko tanpa harus datang secara langsung.
 
 ## Requirements / Objectives
+
 1. Menambahkan barang yang akan dibeli.
 2. Menampilkan list barang yang akan dibeli.
 3. Edit barang yang akan dibeli pada list:
