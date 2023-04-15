@@ -25,9 +25,54 @@ Super Cashier adalah program yang dibuat untuk membantu toko dalam menyediakan l
 
 ## Penjelasan Code
 
-### Inisiasi Class
+### 1. Inisiasi Class
 
-![Inisiasi Class]([1. Inisiasi Kelas.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/tree/main/Snippet%20Codes#:~:text=.%E2%80%8A.-,1.%20Inisiasi%20Kelas.PNG,-Add%20files%20via))
+![1. Inisiasi Kelas.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/1.%20Inisiasi%20Kelas.PNG)
+
+### 2. Main Menu
+
+![2. Main Menu.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/2.%20Main%20Menu.PNG)
+
+### 3. Tambah Barang
+
+![3. Tambah Barang.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/3.%20Tambah%20Barang.PNG)
+
+### 4. Update Nama barang
+
+![4. Update Nama barang.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/4.%20Update%20Nama%20barang.PNG)
+
+### 5. Update Jumlah Barang
+
+![5. Update Jumlah Barang.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/5.%20Update%20Jumlah%20Barang.PNG)
+
+### 6. Update Harga Barang
+
+![6. Update Harga Barang.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/6.%20Update%20Harga%20Barang.PNG)
+
+### 7. Delete Barang
+
+![7. Delete Barang.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/7.%20Delete%20Barang.PNG)
+
+### 8. Reset Barang
+
+![8. Reset Barang.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/8.%20Reset%20Barang.PNG)
+
+### 9. Check Belanja
+
+![9. Check Belanja.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/9.%20Check%20Belanja.PNG)
+
+### 10. Konfirmasi
+
+![10. Konfirmasi.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/10.%20Konfirmasi.PNG)
+
+### 11. Total Belanja
+
+![11. Total Belanja.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/11.%20Total%20Belanja.PNG)
+
+### 12. Discount
+
+![12. Discount.PNG](https://github.com/dimasdwi-s/Super_Cashier_Pacmann/blob/main/Snippet%20Codes/12.%20Discount.PNG)
+
 
 ## Test Case
 
